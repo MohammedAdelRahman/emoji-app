@@ -1,0 +1,19 @@
+.container{
+   text-align: center;
+   padding: 40px;
+   max-height: 100px;
+   background-color: rgb(187, 143, 32);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+.btn{
+  padding:10px 20px;
+  margin:8px;
+  cursor: pointer;
+  border: none;
+  color: black;
+}
+
+.button{
+  margin:20px;
+}
